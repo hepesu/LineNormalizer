@@ -27,6 +27,7 @@ Files with name starts with `pytorch` are Pytorch version.
 ## Models
 Models are licensed under a CC-BY-NC-SA 4.0 international license.
 * [LineNormalizer Release Page](https://github.com/hepesu/LineNormalizer/releases)
+* [BaiduPan](https://pan.baidu.com/s/1tooIPfJX9LVA1aY5spNWiw) [Code: bnaw]
 
 #### Keras
 * model_180913
