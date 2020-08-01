@@ -167,7 +167,7 @@ def gen_data(rng, batch_size):
                 y.append(np.reshape(y_arr[:, :, 0], (HEIGHT, WIDTH, 1)))
                 break
 
-    return np.array(x) / 255.0, np.array(y) / 255.0
+    return np.array(x).astype(np.float32) / 255.0, np.array(y).astype(np.float32) / 255.0
 
 
 def test():
